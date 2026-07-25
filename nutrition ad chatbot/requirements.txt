@@ -1,7 +1,9 @@
 streamlit
 pandas
 numpy
-skikit-learn
+scikit-learn
 joblib
+langchain
+langchain-core
 langchain-groq
-python-dotnov
+python-dotenv
